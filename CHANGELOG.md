@@ -1,5 +1,9 @@
 # 更新日志
 
+## v1.2.2
+
+- 仓库迁移到 https://github.com/Zhalstar 账号下
+
 ## v1.2.1
 
 错误修复：
